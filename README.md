@@ -14,4 +14,4 @@ BAN:
 > https://discord.com/api/oauth2/authorize?client_id=906648244317220924&permissions=0&scope=bot
 
 # (^-^)/
-thanks for checking this repo out!
+Thanks for checking this repo out!
