@@ -10,5 +10,8 @@ VITE:
 NANO:
 > https://discord.com/api/oauth2/authorize?client_id=906180584735399987&permissions=0&scope=bot
 
+BAN:
+> https://discord.com/api/oauth2/authorize?client_id=906648244317220924&permissions=0&scope=bot
+
 # (^-^)/
 thanks for checking this repo out!
