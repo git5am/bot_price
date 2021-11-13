@@ -7,7 +7,7 @@ VITC:
 VITE:
 > https://discord.com/api/oauth2/authorize?client_id=906179927802527745&permissions=0&scope=bot
 
-NANO:
+XNO:
 > https://discord.com/api/oauth2/authorize?client_id=906180584735399987&permissions=0&scope=bot
 
 BAN:
